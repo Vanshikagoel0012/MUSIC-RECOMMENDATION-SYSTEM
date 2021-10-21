@@ -1,2 +1,2 @@
 # MUSIC-RECOMMENDERS-SYSTEM
-dataset are uploaded for more info email me.
+dataset are not uploaded for more info email me.
